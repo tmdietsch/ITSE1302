@@ -1,2 +1,19 @@
 My name is Timothy Dietsch, I am a senior in highschool, and I am taking this class for dual credit. What I like to do is learn new things that fascinate me, theoretical things like black holes or quantum computing (hopefully that won't be theoretical for long).
 Version control is a useful tool for seeing the history of your project. In addition, multiple people can work on the same project and still be able to commit with no obsticles presented by servers.
+===================
+start
+  create(do_you_git_it.txt)
+  open(do_you_git_it.txt)
+    write(yourself) to Week_1
+    commit(Week_1) to master
+  close(do_you_git_it.txt)
+  open(do_you_git_it.txt)
+    write(versionControl) to Week_1
+    commit(Week_1) to master
+  close(do_you_git_it.txt)
+  open(do_you_git_it.txt)
+    write(assignmentInPseudocode) to Week_1
+    commit(Week_1) to master
+  close(do_you_git_it.txt)
+  submit(ITSE1302) to homework
+stop
