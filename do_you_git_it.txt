@@ -1,1 +1,2 @@
 My name is Timothy Dietsch, I am a senior in highschool, and I am taking this class for dual credit. What I like to do is learn new things that fascinate me, theoretical things like black holes or quantum computing (hopefully that won't be theoretical for long).
+Version control is a useful tool for seeing the history of your project. In addition, multiple people can work on the same project and still be able to commit with no obsticles presented by servers.
