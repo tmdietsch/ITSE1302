@@ -11,3 +11,8 @@ println notAsElite + (elite / 3)
 println notAsElite - 400
 println elite % 10
 println elite ** 2
+
+println firstName
+println lastName
+println elite
+println notAsElite
